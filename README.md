@@ -4,7 +4,6 @@ Tarea Integradora 2
 Estefania Motta
 Antonio Hidalgo
 
-
 1
 2
 3
@@ -15,3 +14,16 @@ Antonio Hidalgo
 8
 9
 10
+
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+
+
