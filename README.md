@@ -2,4 +2,4 @@
 Tarea Integradora 2
 
 Estefania Motta
-Antonia Hidalgo
+Antonio Hidalgo
